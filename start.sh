@@ -2,7 +2,7 @@
 
 # configs
 AUUID=e85d9863-ac96-404a-86af-1faebcdcaa09
-CADDYIndexPage=https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign/archive/master.zip
+CADDYIndexPage=https://github.com/Externalizable/bongo.cat/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/fgnm546/rxcioak/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/fgnm546/rxcioak/master/etc/wry.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
